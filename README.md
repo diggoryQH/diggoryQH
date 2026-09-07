@@ -98,8 +98,6 @@ contact: "hungnguyquang435@gmail.com"
   <img src="https://raw.githubusercontent.com/diggoryQH/diggoryQH/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
 </p>
 
-> ℹ️ Để hình rắn này hoạt động, bạn cần thêm 1 GitHub Action `Platane/snk` vào repo `diggoryQH/diggoryQH` (mình có thể hướng dẫn cách setup nếu bạn muốn) — nó sẽ tự động sinh ảnh SVG từ lịch sử đóng góp của bạn mỗi ngày.
-
 ---
 
 ### 📫 Let's Connect
